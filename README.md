@@ -12,3 +12,7 @@ Feel free to submit pull requests :)
 * Editor: Simple code editor
 * Activity Monitor: View active processes
 * PSQL: Save and query Postgres databases
+
+## Built by Richard Guay
+* [ProjectManager](https://github.com/raguay/ProjectManagerFig): Easy way of running project scripts and various functions
+* [FishySettings](https://github.com/raguay/FishySettings.app): Set Fish shell environment and aliases. Currently designed for older version of fig, but working on an update.
