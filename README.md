@@ -14,5 +14,5 @@ Feel free to submit pull requests :)
 * PSQL: Save and query Postgres databases
 
 ## Built by Richard Guay
-* [ProjectManager](https://github.com/raguay/ProjectManagerFig): Easy way of running project scripts and various functions
-* [FishySettings](https://github.com/raguay/FishySettings.app): Set Fish shell environment and aliases. Currently designed for older version of fig, but working on an update.
+* [ProjectManager](https://github.com/raguay/ProjectManagerFig): Easy way of running project scripts and various functions. It works on the current version of fig (1.0.30).
+* [FishySettings](https://github.com/raguay/FishySettings.app): Set Fish shell environment and aliases. It works on the latest version of fig (1.0.30).
